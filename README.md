@@ -1,4 +1,4 @@
-I'm a full-stack software engineer from Sydney currently living in Seattle and working at Palantir. I currently work on a frontend infrastructure team, building tooling to improve the experience of other frontend developers.
+I'm a full-stack software engineer from Sydney currently living in Seattle and working at at Candid Health!
 
 You can find a history of my personal projects here on GitHub.
 
