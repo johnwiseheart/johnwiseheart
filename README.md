@@ -1,4 +1,4 @@
-I'm a full-stack software engineer from Sydney currently living in Seattle and working at at Candid Health!
+I'm a full-stack software engineer from Sydney currently living in Seattle and working at Hex!
 
 You can find a history of my personal projects here on GitHub.
 
